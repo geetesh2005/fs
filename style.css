@@ -1,0 +1,28 @@
+p{
+    color:rgb(227, 25, 173);
+}
+.skills{
+    font-weight: bold;
+    border: 2px solid black;
+    height: 300px;
+    width: 350px;
+    padding-top: 10px;
+    border-radius: 20px;
+    
+}
+.heading{
+    margin-bottom:0px ;
+    font-size: large;
+    text-align: center;
+}
+.skills-section{
+    display: flex;
+    
+}
+.card{
+    /* border: 2px solid black; */
+    margin: 20px;
+    
+    font-family:"Open Sans", sans-serif ;
+    display: inline;
+}
